@@ -281,22 +281,22 @@ section{
 }
 
 .html::after{
-    width: 50%;
+    width: 100%;
 }
 .css::after{
-    width: 30%;
+    width: 90%;
 }
 .js::after{
-    width: 10%;
+    width: 75%;
 }
 .php::after{
-    width: 20%;
+    width: 75%;
 }
 .mysql::after{
-    width: 10%;
+    width: 60%;
 }
 .cs::after{
-    width: 0%;
+    width: 40%;
 }
 
 /* end of about */
